@@ -15,5 +15,15 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/glend/.m2/repository/io/cucumber/messages/13.2.0/messages-13.2.0.jar" sourcepath="C:/Users/glend/.m2/repository/io/cucumber/messages/13.2.0/messages-13.2.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="io.cucumber"/>
+			<attribute name="maven.artifactId" value="messages"/>
+			<attribute name="maven.version" value="13.2.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
